@@ -8,7 +8,7 @@
 [LINKS]({{ site.baseurl }}/LINKS/)
 <br>
 <hr>
-This is os222 and I am Glan Harith Teguh.
+This is os222 and I am glanharith.
 <br><br>
 This is the way!
 
