@@ -23,3 +23,8 @@ ZCZC W04 3 L05 QUIZ
 ZCZC W04 100 L09 Weekly Assignments
 ZCZC W04 30 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W04 90 L88 Workout/Sport/Exercise/ETC.
+ZCZC W05 60 L02 ZOOM meetings related
+ZCZC W05 90 L88 Workout/Sport/Exercise/ETC.
+ZCZC W05 30 L09 Weekly Assignments
+ZCZC W05 20 L00 General, etc.
+ZCZC W05  3 L05 QUIZ
